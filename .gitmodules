@@ -1,0 +1,6 @@
+[submodule "frontend-repo"]
+	path = frontend-repo
+	url = https://github.com/hamzi-haidar/frontend-repo.git
+[submodule "backend-repo"]
+	path = backend-repo
+	url = https://github.com/hamzi-haidar/backend-repo.git
