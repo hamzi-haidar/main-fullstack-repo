@@ -1,7 +1,7 @@
 in this repo (fullstack-repo) we have two submodules that are two other repos (frontend-repo) and (backend-repo).
 
 as you can see in the picture you have linkes to these submodules with commits and these commits are the last changes that happened in them.
-![Screenshot 2024-07-07 125433](https://github.com/hamzi-haidar/fullstack-repo/assets/132144627/d01a0746-a711-4e71-bf1f-ba422e58be50)
+![Screenshot 2024-07-07 135550](https://github.com/hamzi-haidar/fullstack-repo/assets/132144627/68dc56ca-241b-4011-b626-1d716000c036)
 
 this happens whenever we change something in one or both of the submodules commit and push to thier remote repos and then commit and push the main repo (fullstack-repo).
 
@@ -18,3 +18,4 @@ to the config.yaml path. after that we open the path and use pyyaml to load and 
 and that way we can read the yaml file from the main repo in the submodules
 
 ![Screenshot 2024-07-07 124840](https://github.com/hamzi-haidar/fullstack-repo/assets/132144627/f2d00955-aa1f-4094-861c-f5be9c1335e7)
+
